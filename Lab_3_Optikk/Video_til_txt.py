@@ -2,8 +2,9 @@ import cv2
 import numpy as np
 
 # Spesifiser input- og output-filer her
-inn_navn = "Video_puls_30sec_60bpm" 
-ut_navn = "Puls60_V2"
+navn = "trans5"  # Endre til ønsket navn for både input og output, uten filendelse
+inn_navn = f"Nye_videoer/{navn}"   
+ut_navn = f"{navn}"
 
 filename = f"/Users/tordtranum/Desktop/6.semester/Sensorer/Lab/Lab_3_Optikk/Txt_målinger/Videoer/{inn_navn}.mp4"  # Endre til ønsket videofil
 output_filename = f"/Users/tordtranum/Desktop/6.semester/Sensorer/Lab/Lab_3_Optikk/Txt_målinger/{ut_navn}"  # Endre til ønsket output-fil
