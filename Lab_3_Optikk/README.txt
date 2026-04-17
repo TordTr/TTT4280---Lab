@@ -12,5 +12,5 @@ Filene av interesse for de som kommer fra Optikk labb rapporten vil være følge
         - Denne brukes for å konvertere video til txt fil
 
     * Behandling_og_plotting_av_data.ipynb :
-        - Her finner du all egneskrevet kode hvor txt filene behandles, filtreres og plottes 
+        - Her finner du kode hvor alle data (txt) filene behandles, filtreres og plottes 
 
