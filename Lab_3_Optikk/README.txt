@@ -1,6 +1,6 @@
 I Denne mappen finner du all data tilhørende lab 3 - optikk i TTT4280
 
-Filene av interesse for de som kommer fra Optikk labb rapporten vil være følgende:
+Filene av interesse for de som kommer fra Optikk lab rapporten vil være følgende:
     
     * Testing&PI_filer/simple_model.pu
         - Denne benyttes for å regne ut penetrasjonsdybde
