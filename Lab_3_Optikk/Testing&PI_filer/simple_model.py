@@ -4,8 +4,8 @@ import numpy as np
 #muabo = np.genfromtxt("/Users/hakoncarlsen/Downloads/Optikk-lab-filer-26/muabo.txt", delimiter=",")
 #muabd = np.genfromtxt("/Users/hakoncarlsen/Downloads/Optikk-lab-filer-26/muabd.txt", delimiter=",")
 
-muabo = np.genfromtxt("/Users/tordtranum/Desktop/6.semester/Sensorer/Lab/Lab_3_Optikk/muabo.txt", delimiter=",")
-muabd = np.genfromtxt("/Users/tordtranum/Desktop/6.semester/Sensorer/Lab/Lab_3_Optikk/muabd.txt", delimiter=",")
+muabo = np.genfromtxt("/Users/tordtranum/Desktop/6.semester/Sensorer/Lab/Lab_3_Optikk/Testing&PI_filer/muabo.txt", delimiter=",")
+muabd = np.genfromtxt("/Users/tordtranum/Desktop/6.semester/Sensorer/Lab/Lab_3_Optikk/Testing&PI_filer/muabd.txt", delimiter=",")
 
 red_wavelength = 600 # Replace with wavelength in nanometres
 green_wavelength = 520 # Replace with wavelength in nanometres
@@ -33,6 +33,7 @@ mua = mua_blood*bvf + mua_other
 # Units: 1/m
 musr = 100 * (17.6*(wavelength/500)**-4 + 18.78*(wavelength/500)**-0.22)
 
+print(f"musr (1/m): {musr}")
 # mua and musr are now available as shape (3,) arrays
 # Red, green and blue correspond to indexes 0, 1 and 2, respectively
 

@@ -1,0 +1,65 @@
+SNR for trans1:
+
+SNR før filtrering:
+Rød: 3.95 dB
+Grønn: 4.38 dB
+Blå: 2.71 dB
+
+SNR etter filtrering:
+Rød: 4.08 dB
+Grønn: 5.23 dB
+Blå: 3.44 dB
+
+
+SNR for trans2:
+
+SNR før filtrering:
+Rød: 5.00 dB
+Grønn: 6.89 dB
+Blå: 5.42 dB
+
+SNR etter filtrering:
+Rød: 3.72 dB
+Grønn: 4.10 dB
+Blå: 3.85 dB
+
+
+SNR for trans3:
+
+SNR før filtrering:
+Rød: 5.50 dB
+Grønn: 7.93 dB
+Blå: 0.61 dB
+
+SNR etter filtrering:
+Rød: 3.38 dB
+Grønn: 5.39 dB
+Blå: 2.88 dB
+
+
+SNR for trans4:
+
+SNR før filtrering:
+Rød: 0.66 dB
+Grønn: 3.45 dB
+Blå: 3.87 dB
+
+SNR etter filtrering:
+Rød: 3.42 dB
+Grønn: 3.86 dB
+Blå: 5.04 dB
+
+
+SNR for trans5:
+
+SNR før filtrering:
+Rød: 3.65 dB
+Grønn: 8.89 dB
+Blå: 4.92 dB
+
+SNR etter filtrering:
+Rød: 4.32 dB
+Grønn: 6.57 dB
+Blå: 5.53 dB
+
+

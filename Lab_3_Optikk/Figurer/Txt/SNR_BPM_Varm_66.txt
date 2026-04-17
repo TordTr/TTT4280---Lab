@@ -1,0 +1,13 @@
+Puls (Rød): 61.00 BPM
+Puls (Grønn): 38.00 BPM
+Puls (Blå): 37.00 BPM
+
+SNR før filtrering:
+Rød: 4.14 dB
+Grønn: 5.06 dB
+Blå: 3.71 dB
+
+SNR etter filtrering:
+Rød: 2.46 dB
+Grønn: 4.12 dB
+Blå: 4.79 dB
